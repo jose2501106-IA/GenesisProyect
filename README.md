@@ -59,7 +59,7 @@ Tu apoyo es la chispa que enciende este motor. Si crees en el poder de la eficie
 
 <div align="center">
     <p>Conectemos y construyamos el futuro juntos.</p>
-    <a href="https://www.linkedin.com/in/tu_perfil/" target="_blank">
+    <a href="[https://www.linkedin.com/in/tu_perfil/](https://www.linkedin.com/in/josehugomeza-ai/)" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="https://twitter.com/tu_usuario" target="_blank">
